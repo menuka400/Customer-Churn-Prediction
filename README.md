@@ -1,4 +1,4 @@
-ask : Customer Churn Prediction Model Project
+Task : Customer Churn Prediction Model Project
 
 Project Overview
 
