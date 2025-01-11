@@ -133,11 +133,10 @@ Project Stages and Detailed Tasks
 □  Analyze model interpretability
 
 □  Identify most important predictive features
-
-                    □  Compare performance across different algorithms
+□  Compare performance across different algorithms
  
 
-            6.   Model Deployment Preparation
+6. Model Deployment Preparation
 
 □   Develop a prediction pipeline
 
@@ -151,7 +150,7 @@ Project Stages and Detailed Tasks
 
 Technical Requirements
 
-                    •  Programming Language: Python
+•  Programming Language: Python
 •  Key Libraries:
 
 •  Pandas
@@ -174,7 +173,7 @@ Deliverables
 
  2.  Trained machine learning model
 
-                     3.   Model performance documentation
+ 3. Model performance documentation
  
 
 Notes and Recommendations
